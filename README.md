@@ -2,7 +2,7 @@
 
 Fullstack AI Engineer building production AI systems — LLM backends, agent tooling with approval gates, document AI, and the CI/CD to ship them.
 
-Currently at [kothes](https://www.kothes.com) — AI features for technical documentation, 120+ customers in trials. B.Sc. Information Design, graduating 10/2026. Based in Rechberghausen, Germany.
+Building AI for the technical documentation industry — production LLM features, currently in trials with 120+ B2B customers. B.Sc. Information Design, graduating 10/2026. Based in Rechberghausen, Germany.
 
 ## Selected work
 
